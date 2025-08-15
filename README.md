@@ -45,3 +45,4 @@ If you'd like to **use the template without the attribution link**, you can [buy
 ## Credits
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
+
